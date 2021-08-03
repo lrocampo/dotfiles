@@ -1,2 +1,2 @@
 # dotfiles
-# My own set of dotfiles for my Arch Linux + KDE workflow
+## My own set of dotfiles for my Arch Linux + KDE workflow
